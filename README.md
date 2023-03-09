@@ -1,16 +1,17 @@
-# Three.js Journey
+## Getting Started
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+First if you don't have [NodeJS](https://nodejs.org/en/) you should download it for using NPM. 
 
-``` bash
-# Install dependencies (only the first time)
+Then go into your IDE and open terminal. Type:
+cd CubeFile
+# and
 npm install
 
-# Run the local server at localhost:8080
+When it is installed succesfully go into your terminal and run your server by writing:
 npm run dev
 
-# Build for production in the dist/ directory
-npm run build
-```
+And it should start and open server automatically.
+If it doesn't open the server in your browser the LocalHost server should be written on your terminal. 
+🚀 🚀 🚀
+
+or you can view my code from [here](https://webgl-text-deployment.vercel.app)
