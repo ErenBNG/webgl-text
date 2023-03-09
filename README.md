@@ -3,7 +3,7 @@
 First if you don't have [NodeJS](https://nodejs.org/en/) you should download it for using NPM. 
 
 Then go into your IDE and open terminal. Type:
-cd CubeFile
+cd webgl-text
 # and
 npm install
 
